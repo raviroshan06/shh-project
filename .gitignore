@@ -1,0 +1,17 @@
+node_modules/
+backend/node_modules/
+client/node_modules/
+
+.env
+.env.*
+!.env.example
+
+backend/mahsetu.db
+backend/mahsetu.db-shm
+backend/mahsetu.db-wal
+
+dist/
+client/dist/
+
+*.log
+e2e.out.txt
